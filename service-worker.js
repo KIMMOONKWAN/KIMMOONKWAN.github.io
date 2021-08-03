@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.1cda94d8e44af3ce0f67beacb7508273.js"
+  "/precache-manifest.a35b8e4eeb5952a242d4217ab4847221.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "instar_project"});
